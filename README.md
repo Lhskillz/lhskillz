@@ -24,17 +24,18 @@ Whether managing operations or analyzing data, I aim to deliver work that is rel
 - Task Prioritization and Organization
 - Customer Support and Communication
 
-- ### Technical Skills
+### Technical Skills
 - Microsoft Excel
-• SQL
-• Power BI
-• Data Cleaning and Preparation
-• Data Visualization
-• Dashboard Development
-• Data Entry and Database Management
-• Microsoft PowerPoint
-• Google Workspace
-• Microsoft Office Suite
+- SQL
+- Power BI
+- Data Cleaning and Preparation
+- Data Visualization
+- Dashboard Development
+- Data Entry and Database Management
+- Microsoft PowerPoint
+- Google Workspace
+- Microsoft Office Suite
+
 
 
 
