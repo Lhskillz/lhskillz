@@ -49,9 +49,9 @@ Whether managing operations or analyzing data, I aim to deliver work that is rel
 - Curiosity and Continuous Learning
 
 ### Contact Information
-📧 Email: lamidihabeebullah@gmail.com
-💼 LinkedIn: LinkedIn profile [https://www.linkedin.com/in/lamidi-habeebullah/]  
-🐙 GitHub: your GitHub profile here
+-Email: lamidihabeebullah@gmail.com
+-LinkedIn: LinkedIn profile [https://www.linkedin.com/in/lamidi-habeebullah/]  
+-GitHub: your GitHub profile here
 
 
 
