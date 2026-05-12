@@ -36,7 +36,17 @@ Whether managing operations or analyzing data, I aim to deliver work that is rel
 - Google Workspace
 - Microsoft Office Suite
 
-
+### Soft Skills
+- Attention to Detail
+- Communication
+- Problem Solving
+- Time Management
+- Organization
+- Team Collaboration
+- Adaptability
+- Critical Thinking
+- Reliability
+- Curiosity and Continuous Learning
 
 
 
