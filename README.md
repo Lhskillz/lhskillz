@@ -15,15 +15,14 @@ Whether managing operations or analyzing data, I aim to deliver work that is rel
 
 
 ### Core Competencies
-
 - Executive and Administrative Support
-• Data Analysis and Reporting
-• Data Cleaning and Preparation
-• Dashboard Creation and Visualization
-• Workflow and Process Improvement
-• Research and Data Management
-• Task Prioritization and Organization
-• Customer Support and Communication
+- Data Analysis and Reporting
+- Data Cleaning and Preparation
+- Dashboard Creation and Visualization
+- Workflow and Process Improvement
+- Research and Data Management
+- Task Prioritization and Organization
+- Customer Support and Communication
 
 
 
