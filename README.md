@@ -12,3 +12,32 @@ Using tools like Excel, SQL, and Power BI, I clean, analyze, and visualize data 
 I believe great support goes beyond completing tasks. My approach focuses on organization, accuracy, communication, and problem-solving. I pay attention to details, identify inefficiencies, and create systems that help businesses run more smoothly.
 
 Whether managing operations or analyzing data, I aim to deliver work that is reliable, insightful, and impactful.
+
+
+### Core Competencies
+• Executive and Administrative Support
+• Data Analysis and Reporting
+• Data Cleaning and Preparation
+• Dashboard Creation and Visualization
+• Workflow and Process Improvement
+• Research and Data Management
+• Task Prioritization and Organization
+• Customer Support and Communication
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###
