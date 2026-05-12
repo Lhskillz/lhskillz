@@ -51,7 +51,7 @@ Whether managing operations or analyzing data, I aim to deliver work that is rel
 ### Contact Information
 -Email: lamidihabeebullah@gmail.com
 
- [linkdeIn profile][https://www.linkedin.com/in/lamidi-habeebullah/]
+ [linkdeIn profile](https://www.linkedin.com/in/lamidi-habeebullah/)
 
 -GitHub: your GitHub profile here
 
