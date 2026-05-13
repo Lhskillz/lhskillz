@@ -53,7 +53,7 @@ Whether managing operations or analyzing data, I aim to deliver work that is rel
 
 -My LinkedIn Profile :[LinkedIn profile](https://www.linkedin.com/in/lamidi-habeebullah/)
 
--GitHub: your GitHub profile here
+-GitHub: (Github Profile)[https://github.com/Lhskillz]
 
 
 
