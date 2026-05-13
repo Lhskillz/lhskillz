@@ -51,10 +51,9 @@ Whether managing operations or analyzing data, I aim to deliver work that is rel
 ### Contact Information
 -Email: lamidihabeebullah@gmail.com
 
--My LinkedIn Profile :[LinkedIn profile](https://www.linkedin.com/in/lamidi-habeebullah/)
+-My LinkedIn Profile : [LinkedIn profile](https://www.linkedin.com/in/lamidi-habeebullah/)
 
--GitHub:
-(Github Profile)[https://github.com/Lhskillz]
+-GitHub: [Github Profile](https://github.com/Lhskillz
 
 
 
