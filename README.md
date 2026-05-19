@@ -1,76 +1,102 @@
-## Hi there, I'm Habeeb
-I'm a detail-oriented Executive Virtual Assistant and Data Analyst passionate about helping businesses stay organized while turning data into actionable insights. I enjoy creating efficient systems, simplifying workflows, and using data to support smarter business decisions.
+# 👋 Hi, I'm Habeeb  
 
-I combine administrative excellence with analytical thinking to help entrepreneurs and growing businesses improve productivity, maintain structure, and drive growth.
+### Executive Virtual Assistant | Data Analyst  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lamidi-habeebullah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="lamidihabeebullah@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+
+</p>
 
 ---
-### What I Do
-I help entrepreneurs and growing businesses stay organized, efficient, and informed by combining executive support with data analysis. I manage administrative operations such as calendars, emails, scheduling, and workflow coordination while also working with data to uncover insights that support smarter decision-making.
 
-Using tools like Excel, SQL, and Power BI, I clean, analyze, and visualize data to create reports and dashboards that are easy to understand and useful for business growth. I also focus on improving workflows and systems to help businesses save time, increase productivity, and operate more effectively.
+## 🚀 About Me  
 
----
-### My Approach
-I believe great support goes beyond completing tasks. My approach focuses on organization, accuracy, communication, and problem-solving. I pay attention to details, identify inefficiencies, and create systems that help businesses run more smoothly.
+I'm a detail-oriented **Executive Virtual Assistant** and **Data Analyst** passionate about helping businesses stay organized while transforming data into actionable insights.  
 
-Whether managing operations or analyzing data, I aim to deliver work that is reliable, insightful, and impactful.
+I enjoy creating efficient systems, simplifying workflows, and using data to support smarter business decisions. By combining administrative excellence with analytical thinking, I help entrepreneurs and growing businesses improve productivity, maintain structure, and drive growth.
 
 ---
-### Core Competencies
-- Executive and Administrative Support
-- Data Analysis and Reporting
-- Data Cleaning and Preparation
-- Dashboard Creation and Visualization
-- Workflow and Process Improvement
-- Research and Data Management
-- Task Prioritization and Organization
-- Customer Support and Communication
+
+# 💼 What I Do  
+
+✔ Manage calendars, emails, scheduling, and workflow coordination  
+
+✔ Organize administrative operations and executive support tasks  
+
+✔ Clean, analyze, and interpret business data  
+
+✔ Create interactive dashboards and reports  
+
+✔ Improve workflows and business systems  
+
+✔ Support smarter, data-driven decision-making  
+
+---
+
+# 📊 Tech Stack  
+
+## 📈 Data Analysis & Visualization
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 🛠 Productivity & Office Tools
+
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+
+---
+
+# 🧠 Core Competencies  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Executive%20Support-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-217346?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dashboard%20Development-F2C811?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Workflow%20Optimization-E97627?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Reporting-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Research-008080?style=for-the-badge" />
+</p>
+
+---
+
+# 🌟 Soft Skills  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Communication-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Time%20Management-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Teamwork-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adaptability-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Critical%20Thinking-708090?style=for-the-badge" />
+</p> 
+
+---
+
+
+# 📫 Let's Connect  
+
+📧 Email:  
+**lamidihabeebullah@gmail.com**
+
+💼 LinkedIn:  
+[LinkedIn Profile](https://www.linkedin.com/in/lamidi-habeebullah/)
+
+---
+
   
----
-### Technical Skills
-- Microsoft Excel
-- SQL
-- Power BI
-- Data Cleaning and Preparation
-- Data Visualization
-- Dashboard Development
-- Data Entry and Database Management
-- Microsoft PowerPoint
-- Google Workspace
-- Microsoft Office Suite
-  
----
-### Soft Skills
-- Attention to Detail
-- Communication
-- Problem Solving
-- Time Management
-- Organization
-- Team Collaboration
-- Adaptability
-- Critical Thinking
-- Reliability
-- Curiosity and Continuous Learning
-  
----
-### Contact Information
--Email: lamidihabeebullah@gmail.com
 
--My LinkedIn Profile : [LinkedIn profile](https://www.linkedin.com/in/lamidi-habeebullah/)
+## ⚡ Fun Fact  
 
--GitHub: [Github Profile](https://github.com/Lhskillz)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-###
+I enjoy combining organization, systems, and data to help businesses work smarter and more efficiently
